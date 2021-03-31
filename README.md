@@ -1,3 +1,5 @@
 # Realtimechat-Django
-% cd src
-% ./redis-server
+
+cd src
+
+./redis-server
